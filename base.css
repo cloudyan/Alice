@@ -28,7 +28,7 @@ input,select,textarea{
 	font-size:100%;
 }
 
-/* 去掉各Table  cell 的边距并让其边重合，默认值是separate： 边框独立 */
+/* 去掉各Table  cell 的边距并让其边重合，默认值是separate：边框独立 */
 table{
 	border-collapse:collapse;border-spacing:0;
 }
